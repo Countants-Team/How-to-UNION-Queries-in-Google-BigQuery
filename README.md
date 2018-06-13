@@ -1,5 +1,6 @@
 # How-to-UNION-Queries-in-Google-BigQuery
-#####  In the most relational databases, there may be a situations where you need to combine the results of multiple queries into one single dataset which has diffrent datatype.In BigQuery, this occurs when you are fetching data from multiple tables or even across datasets, and this is where the power of using a Union comes into play.
+#####  In the most relational databases, there may be a situations where you need to combine the results of multiple queries into one single dataset which has different datatype.In BigQuery, this occurs when you are fetching data from multiple tables or even across datasets, and this is where the power of using a Union comes into play.
+##### This article will give you basic idea about union in bigquery and would help in consolidating data from multiple tables and datasets.   
 
 
 ### Now, we want the Final Out Put In this format:-
